@@ -1,2 +1,9 @@
-# MKS-Visual-Novel
-This is a visual novel made with Naninovel plugin. She tells a story involving characters from one chat where I am a member. So far, I can not say anything more about her ;p
+![image](https://github.com/Atennop1/BomberVisualNovel/assets/73060890/1e71e223-491f-471a-95ba-e2b2a02e138c)
+
+![badge](https://img.shields.io/static/v1?label=Engine&message=Unity&color=black&style=for-the-badge)
+![badge](https://img.shields.io/static/v1?label=Language&message=C%23&color=blueviolet&style=for-the-badge)
+![badge](https://img.shields.io/static/v1?label=architecture&message=Naninovel&color=green&style=for-the-badge)
+![badge](https://img.shields.io/static/v1?label=Platform&message=Windows&color=blue&style=for-the-badge)
+
+# BomberVisualNovel
+This is a visual novel that I planned to make with my internet friends from the "Bomber" chat using the Naninovel plugin. It was supposed to tell the story of how a newbie comes to the chat, goes through thick and thin and eventually becomes a respected person in the chat. But the screenwriter and artist got lazy, so the project was abandoned ;p
