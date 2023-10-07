@@ -1,4 +1,4 @@
-![image](https://github.com/Atennop1/BomberVisualNovel/assets/73060890/1e71e223-491f-471a-95ba-e2b2a02e138c)
+![image](https://github.com/Atennop1/BomberVisualNovel/assets/73060890/f2cced2f-221e-4ead-b618-a4a216d9f1ea)
 
 ![badge](https://img.shields.io/static/v1?label=Engine&message=Unity&color=black&style=for-the-badge)
 ![badge](https://img.shields.io/static/v1?label=Language&message=C%23&color=blueviolet&style=for-the-badge)
