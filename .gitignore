@@ -2,8 +2,15 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+/Elringus.Naninovel.Runtime.csproj
+/Elringus.Naninovel.Editor.csproj
+/Assets/NaninovelData.meta
 /Assets/NaninovelData/
 /Assets/Plugins/
+/Assets/Resources/
+/Assets/Resources.meta
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
